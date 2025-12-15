@@ -1,1 +1,2 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
+models/SGD_15epochs_lr0.005_with_augmentations.pth filter=lfs diff=lfs merge=lfs -text
