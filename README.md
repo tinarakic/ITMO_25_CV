@@ -24,7 +24,7 @@ Consumers Bid Dataset: https://www.kaggle.com/datasets/angelosgiotis/consumers-b
 ```
 main/
 │── test/                            # Изображения для тестирования алгоритма
-│── working files/                   # Исследование данных и эксперименты
+│── working files/                   # Предобработка данных и эксперименты (рабочие файлы)
 │── models/                          # Сохраненные модели
 │── Проект_ConsumerDetection.ipynb   # Итоговый код проекта
 │── README.md
